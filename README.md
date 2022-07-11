@@ -7,16 +7,6 @@ O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você
 </p>
 <br>
 
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<br>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
